@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="eLearningPlayer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="eLearningPlayer_com_certegrity_cloudsvc_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://cloudsvc.certegrity.com/basic/service.asmx</Value>
+    </Setting>
+    <Setting Name="eLearningPlayer_com_certegrity_hciscormsvc_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://hciscormsvc.certegrity.com/Scorm/service.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
